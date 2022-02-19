@@ -1,0 +1,5 @@
+/stockfish*/
+/boards/**
+
+stockfish*.exe
+*.log
